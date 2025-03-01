@@ -1,0 +1,1 @@
+A responsive and accessible news webpage built with HTML and CSS, featuring structured navigation, a visually appealing banner, typography styling, and improved user experience through semantic elements and accessibility enhancements.
